@@ -1,7 +1,7 @@
 {
   "name": "folder-smith",
   "productName": "folder and file explorer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A folder and file explorer with some advanced utilities",
   "main": ".vite/build/main.js",
   "private": true,
